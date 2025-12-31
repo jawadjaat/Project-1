@@ -1,0 +1,1 @@
+This project is a simple calculator developed using Python and HTML. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through an easy-to-use web interface
